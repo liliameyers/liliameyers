@@ -5,8 +5,7 @@
 - 🌱 I’m finishing my MSc in Applied Social Data Science at LSE at the end of September
 - 👀 I'm looking for full-time data science or data analyst roles in London for October 
 - 💬 I’m interested in machine learning, text analysis, and data ethics
-- 📫 How to reach me: meyers.lilia@gmail.com or linkedin.com/in/liliameyers
-
+- 📫 How to reach me: meyers.lilia@gmail.com or www.linkedin.com/in/liliameyers
 <!--
 **liliameyers/liliameyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
