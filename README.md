@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱  My name is Lilia test
+- 🌱  My name is Lilia test develop
 - 💬  I’m interested in text analysis, data ethics, and social science research and their applications across organisatios
 - 📫  How to reach me: meyers.lilia@gmail.com or www.linkedin.com/in/liliameyers
 <!--
